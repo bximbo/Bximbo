@@ -1,6 +1,5 @@
 ## Hi there 👋🏾
 
-danjayy/README.md
 🚀 Hi, I’m @bximbo
 🚀 I’m interested in Robotics
 🚀 I have intermediate level skill in Mathematics  
