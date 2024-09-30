@@ -2,7 +2,7 @@
 
 🚀 Hi, I’m @bximbo
 
-🚀 I’m interested in Robotics
+🚀 I’m interested in the use of Robotics, AI, & Machine learning to offer efficient, cost-effective, automated technology solutions.
 
 🚀 I have intermediate level skill in Mathematics  
 
