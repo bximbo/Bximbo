@@ -6,6 +6,8 @@
 
 🚀 I have intermediate level skill in Mathematics  
 
+🚀 Documentation and Copy-writing
+
 🚀 I’m currently learning Python, julia, C, C++, and embedded C
 
 🚀 I’m looking to BUILD exciting, innovative algorithms with you!
