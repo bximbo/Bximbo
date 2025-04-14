@@ -16,5 +16,5 @@
 
 🚀 Reach me on Twitter @adenugabimbola
 
-Check out my LinkedIn (profile)[https://www.linkedin.com/in/israel-adenuga-1853a4194/]
+Check out my LinkedIn profile: https://www.linkedin.com/in/israel-adenuga-1853a4194/
 
