@@ -4,7 +4,7 @@
 
 🚀 I like the idea of engineering in Robotics(Control x SLAM) || Operations Dev
 
-🚀 I’m interested in the use of Robotics, AI, & Machine learning to offer efficient, cost-effective, automated technology solutions.
+🚀 I’m interested in the use of Robotics, AI (AI Agents inclusive), & Machine learning to offer efficient, cost-effective, automated technology solutions.
 
 🚀 I have intermediate level skill in Mathematics  
 
