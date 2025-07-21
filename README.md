@@ -2,7 +2,7 @@
 
 🚀 Hi, I’m @bximbo
 
-🚀 I like the idea of Software engineering in Robotics(Control x SLAM) ||  Creative Coding  || Operations Dev
+🚀 I like the idea of Software engineering in:  Creative Coding  || Robotics(Control x SLAM) || Operations Dev
 
 🚀 I’m interested in the use of Robotics, AI (AI Agents inclusive), Creative coding & Machine learning to offer efficient, cost-effective, automated technology solutions.
 
