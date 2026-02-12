@@ -2,10 +2,10 @@
 
 🚀 I’m [Bimbo](https://github.com/bximbo)
 
-Robotics · AI · Prediction Systems  
-Control × SLAM  
 Functional Systems  
+Robotics · AI · Prediction Systems  
 Production Infrastructure  
+Control × SLAM  
 
 Math. Algorithms. Deployment.
 
