@@ -1,21 +1,16 @@
 ## Hi there 👋🏾
 
-🚀 Hi, I’m @bximbo
+🚀 I’m [Bimbo](https://github.com/bximbo)
 
-🚀 I like the idea of Software engineering in:  Creative Coding  || Robotics(Control x SLAM) || Operations Dev
+Robotics · AI · Prediction Systems  
+Control × SLAM  
+Functional Systems  
+Production Infrastructure  
 
-🚀 I’m interested in the use of Robotics, AI (AI Agents inclusive), Creative coding & Machine learning to offer efficient, cost-effective, automated technology solutions.
+Math. Algorithms. Deployment.
 
-🚀 I am good with Maths
+If it runs in theory, I make it work in reality.
 
-🚀 Documentation and Copy-writing
+[Twitter](https://x.com/stbimbo?s=21)  
+[LinkedIn](https://www.linkedin.com/in/israel-adenuga-1853a4194?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-🚀 I’m currently learning Python, julia, C, C++, and embedded C
-
-🚀 I’m looking to BUILD exciting, innovative algorithms with you!
-
-🚀 Reach me on Twitter @adenugabimbola
-
-Check out my LinkedIn profile: https://www.linkedin.com/in/israel-adenuga-1853a4194/
-
-🚀 ALL PINNED REPOS HAVE IMAGE/VIDEO RESULTS. ENJOY
