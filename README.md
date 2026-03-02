@@ -7,7 +7,7 @@ Production Infrastructure
 Robotics · AI · Prediction Systems  
 Control × SLAM  
 
-# Math. Algorithms. Deployment.
+## Math. Algorithms. Deployment.
 
 If it runs in theory, I make it work in reality.
 
