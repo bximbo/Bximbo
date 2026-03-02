@@ -3,11 +3,11 @@
 🚀 I’m [Bimbo](https://github.com/bximbo)
 
 Functional Systems  
-Robotics · AI · Prediction Systems  
 Production Infrastructure  
+Robotics · AI · Prediction Systems  
 Control × SLAM  
 
-Math. Algorithms. Deployment.
+# Math. Algorithms. Deployment.
 
 If it runs in theory, I make it work in reality.
 
